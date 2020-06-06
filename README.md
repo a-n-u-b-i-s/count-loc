@@ -93,6 +93,6 @@ optional arguments:
 
 ### Configuration
 
-To filter by specfic extentions globally specify the relevant extensions in file_extensions.txt. See [file_extensions.txt](https://github.com/) in this repo for an example.
+To filter by specfic extentions globally specify the relevant extensions in file_extensions.txt. See [file_extensions.txt](https://github.com/a-n-u-b-i-s/count_loc/blob/master/file_extensions.txt) in this repo for an example.
 
-To filter by specfic extentions by repository specify the relevant extensions in file_extensions_map.txt. See [file_extensions_map.txt](https://github.com/) in this repo for an example.
+To filter by specfic extentions by repository specify the relevant extensions in file_extensions_map.txt. See [file_extensions_map.txt](https://github.com/a-n-u-b-i-s/count_loc/blob/master/file_extensions_map.txt) in this repo for an example.
