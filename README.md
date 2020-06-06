@@ -4,6 +4,8 @@
 
 **count_loc** includes a python and shell script each with their own caveats.
 
+The output of **count_loc** will be put in either lines_per_repo.csv or lines_per_file.csv depending on whether the file-level counts flag is passed.
+
 ### Feature List
 
 | Feature                     | count_loc.py | count_loc.sh |
